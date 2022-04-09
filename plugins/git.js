@@ -11,17 +11,17 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     var respoimage = await axios.get(config.LIZA, { responseType: 'arraybuffer' })
 
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('liza mwol v2.jpg'), mimetype: Mimetype.png, caption: `~========~ ʟɪɴᴋs ~========~ 
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('Rahees.jpg'), mimetype: Mimetype.png, caption: `~========~ ʟɪɴᴋs ~========~ 
  
-ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ wa.me/918137829228
+ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ wa.me/917994206751
    
-ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ wa.me/918075379950
+ᴏᴡɴᴇʀ ɴᴜᴍʙᴇʀ wa.me/917994206751
 
 
-Wʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ : https://chat.whatsapp.com/EfzzqyQ0JANCvyATuhAaKe
+Wʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ : 
 
 
-ɢɪᴛʜᴜʙ ʟɪɴᴋ : https://github.com/Chunkindepadayali/LIZA-MWOL
+ɢɪᴛʜᴜʙ ʟɪɴᴋ : https://github.com/Rahees-8/LIZA-MWOL
 
  
 `}) 
